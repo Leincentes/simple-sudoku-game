@@ -19,7 +19,7 @@ This is a simple Sudoku solver with a graphical user interface (GUI) built using
 2. Ensure you have Python 3.x installed on your system.
 3. Run the script using the command:
     ```bash
-    python sudoku_solver_gui.py
+    python sudoku_game.py
     ```
 
 ## Usage
@@ -46,15 +46,7 @@ This is a simple Sudoku solver with a graphical user interface (GUI) built using
 
 Run the script and a window will appear with a 9x9 grid. Enter your Sudoku puzzle into the grid. You can then check if your solution is correct or let the program solve it for you.
 
-## Screenshot
-
-![Sudoku Solver GUI](sudoku_gui_screenshot.png)
-
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or suggestions, please open an issue or contact the maintainer.
 
